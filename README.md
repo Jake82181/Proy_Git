@@ -17,4 +17,12 @@ Este proyecto demuestra cómo un sistema sencillo puede interpretar percepciones
 ## ⚙️ Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/Jake82181/agente-bienestar-digital.git
+   git clone [https://github.com/Jake82181/agente-bienestar-digital.git](https://github.com/Jake82181/Proy_Git)
+2. Accede al directorio
+3. Ejecuta el script en Python:
+
+## 🚀 Uso
+Al ejecutar el programa, escribe cómo te sientes y recibe un consejo inmediato:
+  🤖 Agente: ¿Cómo te sientes hoy? → cansado pero feliz
+  🌱 Consejo: haz una pausa breve y estira el cuerpo, pero también comparte tu energía con alguien más.
+
